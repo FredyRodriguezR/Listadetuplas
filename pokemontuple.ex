@@ -1,9 +1,5 @@
 defmodule Pokemontuple do
 
-  #pokemonlist = [{"0","Charmeleon", "fire", "25", "Charizard", "Charmander"}]
-  #pokemonlist = [{"1","Trophius", "grass", "15", "nil", "nil"}]
-  #pokemonlist = [{"2","Arcanine", "fire", "45", "nil", "Growthlite"}]
-
   def start() do
     pokemonlist = [{"0","Charmeleon", "fire", "25", "Charizard", "Charmander"},
   {"1","Trophius","grass", "25", "nil", "nil"},
